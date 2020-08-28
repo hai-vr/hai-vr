@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](test-bg.png)
+![](https://github.com/hai-vr/hai-vr/blob/master/test-bg.png)
 
 <!--
 **hai-vr/hai-vr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
