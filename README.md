@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github.com/hai-vr/hai-vr/blob/master/test-bg.png)
 
 <!--
