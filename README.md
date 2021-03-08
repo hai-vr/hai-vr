@@ -1,4 +1,4 @@
-![](https://github.com/hai-vr/hai-vr/blob/master/test-bg2.png)
+![](https://github.com/hai-vr/hai-vr/blob/master/test-bg3.png)
 
 <!--
 **hai-vr/hai-vr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
