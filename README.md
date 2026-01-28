@@ -2,6 +2,7 @@
 
 Search filters:
 [📚 ALCOM listings](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%9A&type=public&language=&sort=) ●
+[HVR](https://github.com/hai-vr?tab=repositories&q=hvr-) ●
 [🔺 Basis projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%94%BA&type=public&language=&sort=) ●
 [🗨️ VRC-only projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%97%A8%EF%B8%8F+VRC+Required&type=public&language=&sort=) ●
 [➡️ Moved](https://github.com/hai-vr?tab=repositories&q=%E2%9E%A1%EF%B8%8F&type=&language=&sort=)<br/>
