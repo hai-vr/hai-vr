@@ -8,7 +8,7 @@ Search filters:
 [➡️ Moved](https://github.com/hai-vr?tab=repositories&q=%E2%9E%A1%EF%B8%8F&type=&language=&sort=)<br/>
 Forks:
 [➕ Variation forks](https://github.com/hai-vr?tab=repositories&q=%E2%9E%95&type=fork&language=&sort=) ●
-[📨 Forks for PRs](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%A8&type=fork&language=&sort=)
+[📨 Forks for PRs](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%A8)
 
 <!--
 **hai-vr/hai-vr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
