@@ -1,11 +1,11 @@
 ![](https://github.com/hai-vr/hai-vr/blob/master/test-bg3.png)
 
 Search filters:
-[📚 ALCOM listings](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%9A&type=public&language=&sort=) ●
+[📚 ALCOM listings](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%9A) ●
 [HVR](https://github.com/hai-vr?tab=repositories&q=hvr-) ●
-[🔺 Basis projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%94%BA&type=public&language=&sort=) ●
-[🗨️ VRC-only projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%97%A8%EF%B8%8F+VRC+Required&type=&language=&sort=) ●
-[➡️ Moved](https://github.com/hai-vr?tab=repositories&q=%E2%9E%A1%EF%B8%8F&type=&language=&sort=)<br/>
+[🔺 Basis projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%94%BA) ●
+[🗨️ VRC-only projects](https://github.com/hai-vr?tab=repositories&q=%F0%9F%97%A8%EF%B8%8F+VRC+Required) ●
+[➡️ Moved](https://github.com/hai-vr?tab=repositories&q=%E2%9E%A1%EF%B8%8F)<br/>
 Forks:
 [➕ Variation forks](https://github.com/hai-vr?tab=repositories&q=%E2%9E%95&type=fork&language=&sort=) ●
 [📨 Forks for PRs](https://github.com/hai-vr?tab=repositories&q=%F0%9F%93%A8)
